@@ -1,2 +1,2 @@
 # manti
-The delicious programming language.
+BORUYU YEMİŞ GİBİSİN?
